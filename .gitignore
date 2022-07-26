@@ -1,0 +1,14 @@
+.Module.symvers.cmd
+.bugg-*.ko.cmd
+.bugg-*.mod.cmd
+.bugg-*.mod.o.cmd
+.bugg-*.o.cmd
+.modules.order.cmd
+Module.symvers
+bugg-*.ko
+bugg-*.mod
+bugg-*.mod.c
+bugg-*.mod.o
+bugg-*.o
+modules.order
+*.dtbo
