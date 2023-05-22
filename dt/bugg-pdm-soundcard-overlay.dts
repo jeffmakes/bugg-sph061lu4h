@@ -16,7 +16,7 @@
         __overlay__ {
             card_codec: card-codec {
                 #sound-dai-cells = <0>;
-                compatible = "invensense,ics43432";
+                compatible = "bugg,sph061lu4h";
                 status = "okay";
             };
         };
